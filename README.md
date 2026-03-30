@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Follower Badge -->
 <img src="https://komarev.com/ghpvc/?username=abhiroux&label=Profile+Views&color=7b68ee&style=for-the-badge" />
 &nbsp;
 <a href="https://github.com/abhiroux?tab=followers">
@@ -130,7 +129,10 @@ A production-grade real-time chat application with end-to-end encryption, OTP-ba
 - 🖼️ Cloudinary image & file upload support
 - 🚀 Deployed: Vercel + Render + MongoDB Atlas
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Abhiroux/Chatty)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Abhiroux/Chatty?style=for-the-badge&logo=starship&color=7b68ee&labelColor=0d1117)
+![Last Commit](https://img.shields.io/github/last-commit/Abhiroux/Chatty?style=for-the-badge&color=7b68ee&labelColor=0d1117)
 
 ---
 
@@ -151,7 +153,10 @@ A full-featured e-commerce platform for traditional Bihari sweets, built for a r
 - 📧 Gmail SMTP OTP Authentication
 - 🚀 Deployed: Vercel + Render + MongoDB Atlas M0
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Abhiroux/mithila-mithas)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Abhiroux/mithila-mithas?style=for-the-badge&logo=starship&color=7b68ee&labelColor=0d1117)
+![Last Commit](https://img.shields.io/github/last-commit/Abhiroux/mithila-mithas?style=for-the-badge&color=7b68ee&labelColor=0d1117)
 
 ---
 
@@ -162,7 +167,7 @@ A six-theme VS Code extension inspired by the Seven Kingdoms of Westeros. Featur
 
 ![VS Code](https://img.shields.io/badge/VS%20Code%20API-black?style=flat-square&logo=visualstudiocode)
 ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json)
-![TextMate](https://img.shields.io/badge/TextMate%20Grammars-black?style=flat-square)
+![vsce](https://img.shields.io/badge/vsce-black?style=flat-square)
 
 - 🎨 6 unique House-inspired color themes
 - 🗺️ Custom icon theme with 28 file icons
@@ -171,6 +176,10 @@ A six-theme VS Code extension inspired by the Seven Kingdoms of Westeros. Featur
 - 📦 Published under `Abhiroux` on VS Marketplace
 
 [![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-Install%20Now-%230066b8?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/publishers/Abhiroux)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Abhiroux/game-of-thrones-theme)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Abhiroux/game-of-thrones-theme?style=for-the-badge&logo=starship&color=7b68ee&labelColor=0d1117)
 
 ---
 
@@ -192,17 +201,29 @@ A fast, responsive news aggregator with dark mode, infinite scroll, and real-tim
 
 ---
 
+## 🏅 &nbsp;GitHub Badges
+
+<div align="center">
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark" />
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" title="YOLO" />
+
+</div>
+
+---
+
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiroux&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhiroux&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&cache_seconds=1800" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiroux&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiroux&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9&cache_seconds=1800" width="40%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abhiroux&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=ff6b6b&currStreakLabel=7b68ee&sideLabels=c9d1d9&dates=c9d1d9" width="55%" />
+<img src="https://streak-stats.demolab.com/?user=abhiroux&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=ff6b6b&currStreakLabel=7b68ee&sideLabels=c9d1d9&dates=c9d1d9" width="55%" />
 
 </div>
 
@@ -227,7 +248,7 @@ A fast, responsive news aggregator with dark mode, infinite scroll, and real-tim
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiroux&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiroux&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </div>
 
 ---
