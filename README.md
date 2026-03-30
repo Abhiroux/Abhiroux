@@ -8,21 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Full+Stack+Developer+%40+MERN+Stack;Building+real-world+apps+%26+tools;Debugging+since+2AM+%E2%80%94+it+works+best+%F0%9F%94%A5;Published+VS+Code+Extension+Author;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abhiroux&label=Profile+Views&color=7b68ee&style=for-the-badge" />
-  &nbsp;
-  <a href="https://github.com/abhiroux?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhiroux?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
-  </a>
-</p>
+<br/>
+
+<!-- Profile Views & Follower Badge -->
+<img src="https://komarev.com/ghpvc/?username=abhiroux&label=Profile+Views&color=7b68ee&style=for-the-badge" />
+&nbsp;
+<a href="https://github.com/abhiroux?tab=followers">
+  <img src="https://img.shields.io/github/followers/abhiroux?label=Followers&style=for-the-badge&color=7b68ee&labelColor=0d1117" />
+</a>
 
 </div>
 
 ---
-
-<!-- About Me -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 &nbsp;`whoami`
 
@@ -49,7 +46,7 @@ const abhishek = {
   </a>
   &nbsp;
   <a href="https://www.instagram.com/abhiroux/">
-    <img src="https://img.shields.io/badge/Instagram-@abhiroux-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%40abhiroux-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Abhiroux/">
@@ -69,141 +66,129 @@ const abhishek = {
 
 ## ⚒️ &nbsp;Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+**💻 Languages**
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+**🌐 Frontend**
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-%230066FF.svg?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemailer-%2322B573.svg?style=for-the-badge&logo=minutemailer&logoColor=white" />
-</p>
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+**🛠️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-%230066FF.svg?style=for-the-badge&logo=razorpay&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-%2322B573.svg?style=for-the-badge&logo=minutemailer&logoColor=white)
 
 ---
 
 ## 🚀 &nbsp;Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 💬 Chatty — Real-Time Chat App
-> *Full Stack MERN · End-to-End Encrypted*
+> *Full Stack MERN · End-to-End Encrypted · Socket.IO*
 
-A production-grade real-time chat application with end-to-end encryption, OTP authentication, and seamless media sharing.
+A production-grade real-time chat application with end-to-end encryption, OTP-based email authentication, and seamless Cloudinary media sharing. Deployed across Vercel, Render, and MongoDB Atlas.
 
-**Stack:**
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Cloudinary` `JWT` `Nodemailer`
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socketdotio)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-black?style=flat-square&logo=cloudinary)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-**Highlights:**
-- 🔐 End-to-End Encryption for messages
-- ⚡ Real-time messaging via Socket.IO
-- 📧 OTP-based Email Authentication
-- 🖼️ Cloudinary media uploads
-- 🚀 Deployed on Vercel + Render + MongoDB Atlas
+- 🔐 End-to-End Encryption for all messages
+- ⚡ Real-time messaging & presence via Socket.IO
+- 📧 OTP-based Email Authentication (Nodemailer)
+- 🖼️ Cloudinary image & file upload support
+- 🚀 Deployed: Vercel + Render + MongoDB Atlas
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 🍬 Mithila Mithas — Sweet E-Commerce
-> *MERN Stack · Production Client Project*
+> *MERN Stack · Real Client Project · Payments + Tracking*
 
-A full-featured e-commerce platform for traditional Bihari sweets, built for a real client with payments, order tracking, and address autocomplete.
+A full-featured e-commerce platform for traditional Bihari sweets, built for a real client. Includes Razorpay payments, Mapbox address autocomplete for India, automated AfterShip order tracking, and Gmail SMTP OTP login.
 
-**Stack:**
-`React` `Node.js` `Express` `MongoDB Atlas` `Razorpay` `Mapbox` `AfterShip` `Nodemailer`
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Razorpay](https://img.shields.io/badge/Razorpay-black?style=flat-square&logo=razorpay)
+![Mapbox](https://img.shields.io/badge/Mapbox-black?style=flat-square&logo=mapbox)
 
-**Highlights:**
 - 💳 Razorpay payment gateway integration
-- 📍 Mapbox-powered Indian address autocomplete
+- 📍 Mapbox Indian address autocomplete
 - 📦 Automated order tracking via AfterShip webhooks
-- 📧 Gmail SMTP / OTP authentication
-- 🚀 Deployed on Vercel + Render
+- 📧 Gmail SMTP OTP Authentication
+- 🚀 Deployed: Vercel + Render + MongoDB Atlas M0
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 🐉 Game of Thrones — VS Code Theme
-> *Published Extension · Abhiroux on VS Marketplace*
+> *Published Extension · Abhiroux · VS Marketplace*
 
-A six-theme VS Code extension inspired by the Seven Kingdoms of Westeros, complete with a custom icon set, terminal ANSI mappings, and web IDE compatibility.
+A six-theme VS Code extension inspired by the Seven Kingdoms of Westeros. Features a custom 28-icon file icon theme, full terminal ANSI mappings, and complete web IDE compatibility for vscode.dev and github.dev.
 
-**Stack:**
-`VS Code Extension API` `TextMate Grammars` `JSON` `vsce`
+![VS Code](https://img.shields.io/badge/VS%20Code%20API-black?style=flat-square&logo=visualstudiocode)
+![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json)
+![TextMate](https://img.shields.io/badge/TextMate%20Grammars-black?style=flat-square)
 
-**Highlights:**
-- 🎨 6 unique color themes (House-inspired)
+- 🎨 6 unique House-inspired color themes
 - 🗺️ Custom icon theme with 28 file icons
 - 🖥️ Full terminal ANSI color mappings
 - 🌐 Compatible with vscode.dev & github.dev
 - 📦 Published under `Abhiroux` on VS Marketplace
 
-[![Marketplace](https://img.shields.io/badge/VS%20Marketplace-Install%20Now-%230066b8?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/publishers/Abhiroux)
+[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-Install%20Now-%230066b8?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/publishers/Abhiroux)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 📰 React News App
-> *API-Powered · Responsive PWA*
+> *NewsAPI · Infinite Scroll · Dark Mode*
 
-A fast, responsive news aggregator with dark mode, infinite scroll, and real-time headlines powered by NewsAPI.
+A fast, responsive news aggregator with dark mode, infinite scroll, and real-time category-based headlines powered by NewsAPI.
 
-**Stack:**
-`React` `NewsAPI` `Bootstrap` `CSS3`
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-black?style=flat-square)
 
-**Highlights:**
 - 🌙 Dark mode toggle
 - ♾️ Infinite scroll pagination
 - ⏱️ Top loading progress bar
 - 📱 Fully responsive layout
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
-
-    </td>
-  </tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/abhiroux)
 
 ---
 
@@ -215,9 +200,9 @@ A fast, responsive news aggregator with dark mode, infinite scroll, and real-tim
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiroux&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7b68ee&text_color=c9d1d9" width="40%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiroux&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=ff6b6b&currStreakLabel=7b68ee" width="55%" />
+<img src="https://streak-stats.demolab.com?user=abhiroux&theme=tokyonight&border_radius=12&hide_border=true&background=0d1117&stroke=7b68ee&ring=7b68ee&fire=ff6b6b&currStreakLabel=7b68ee&sideLabels=c9d1d9&dates=c9d1d9" width="55%" />
 
 </div>
 
@@ -229,25 +214,20 @@ A fast, responsive news aggregator with dark mode, infinite scroll, and real-tim
 
 <img src="https://leetcard.jacoblin.cool/Abhiroux?theme=dark&font=Baloo+2&ext=contest&border=0&radius=12" width="55%" />
 
-</div>
+<br/><br/>
 
-<!-- LeetCode Badge Row -->
-<p align="center">
-  <a href="https://leetcode.com/u/Abhiroux/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23FFA116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhiroux&logo=leetcode&logoColor=yellow" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Abhiroux/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/Abhiroux/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiroux&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiroux&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
 </div>
 
 ---
@@ -255,7 +235,7 @@ A fast, responsive news aggregator with dark mode, infinite scroll, and real-tim
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiroux&bg_color=0d1117&color=7b68ee&line=7b68ee&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiroux&bg_color=0d1117&color=7b68ee&line=7b68ee&point=ffffff&area=true&hide_border=true&radius=8" width="100%" />
 </div>
 
 ---
